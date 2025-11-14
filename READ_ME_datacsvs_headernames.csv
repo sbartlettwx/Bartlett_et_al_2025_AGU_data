@@ -1,0 +1,37 @@
+id,datacsv_name,header_name,analysis,figure
+1,AvgNum_TO_SV_warnings,AN_TO,Average number of severe tstorms warnings per year,Fig 3a
+2,AvgNum_TO_SV_warnings,AN_ST,Average number of tornado warnings per year,Fig 3b
+3,AvgNum_TO_SV_warnings,AN_TO_C,Average number of tornado warnings per cool season,Fig 3c
+4,AvgNum_TO_SV_warnings,AN_ST_C,Average number of severe tstorm warnings per cool season,Fig 3d
+5,AvgNum_TO_SV_warnings,AN_TO_W,Average number of tornado warnings per warm season,Fig 3e
+6,AvgNum_TO_SV_warnings,AN_ST_W,Average number of severe tstorm warnings per warm season,Fig 3f
+7,AvgNum_tA_AS_ARs,AN_AR_tA,"Average number of AR Events, tARget",Fig 4a
+8,AvgNum_tA_AS_ARs,AN_AR_tA_C,"Average number of AR Events, tARget, Cool Season",Fig 4b
+9,AvgNum_tA_AS_ARs,AN_AR_tA_W,"Average number of AR Events, tARget, Warm Season",Fig 4c
+10,WarningPerspective_TO_SV_with_tA_AS,AF_TO_tA_A,"AR Fraction, Tornado, tARget",Fig 5a
+11,WarningPerspective_TO_SV_with_tA_AS,AF_ST_tA_A,"AR Fraction, Severe Tstorm, tARget",Fig 5b
+12,WarningPerspective_TO_SV_with_tA_AS,AF_TO_tA_C,"AR Fraction, Tornado, tARget, Cool Season",Fig 5c
+13,WarningPerspective_TO_SV_with_tA_AS,AF_ST_tA_C,"AR Fraction, Severe Tstorm, tARget, Cool Season",Fig 5d
+14,WarningPerspective_TO_SV_with_tA_AS,AF_TO_tA_W,"AR Fraction, Tornado, tARget, warm Season",Fig 5e
+15,WarningPerspective_TO_SV_with_tA_AS,AF_ST_tA_W,"AR Fraction, Severe Tstorm, tARget, Warm Season",Fig 5f
+16,ARPerspective_tA_AS_with_TO_SV,tA_AR_TO_A,Fraction of Tornado during all months w/ tARget AR,Fig 6a
+17,ARPerspective_tA_AS_with_TO_SV,tA_AR_SV_A,Fraction of Severe during all months w/ tARget AR,Fig 6b
+18,ARPerspective_tA_AS_with_TO_SV,tA_AR_TO_C,Fraction of Tornado during cool-season w/ tARget AR,Fig 6c
+19,ARPerspective_tA_AS_with_TO_SV,tA_AR_SV_C,Fraction of Severe during cool-season w/ tARget AR,Fig 6d
+20,ARPerspective_tA_AS_with_TO_SV,tA_AR_TO_W,Fraction of Tornado during warm-season w/ tARget AR,Fig 6e
+21,ARPerspective_tA_AS_with_TO_SV,tA_AR_SV_W,Fraction of Severe during warm-season w/ tARget AR,Fig 6f
+22,AvgNum_tA_AS_ARs,AN_AR_AS,"Average number of AR Events, AR Scale",Fig S1a
+23,AvgNum_tA_AS_ARs,AN_AR_AS_C,"Average number of AR Events, AR Scale, Cool Season",Fig S1b
+24,AvgNum_tA_AS_ARs,AN_AR_AS_W,"Average number of AR Events, AR Scale, Warm Season",Fig S1c
+25,WarningPerspective_TO_SV_with_tA_AS,AF_TO_AS_A,"AR Fraction, Tornado, AR Scale",Fig S2a
+26,WarningPerspective_TO_SV_with_tA_AS,AF_ST_AS_A,"AR Fraction, Severe Tstorm, AR Scale",Fig S2b
+27,WarningPerspective_TO_SV_with_tA_AS,AF_TO_AS_C,"AR Fraction, Tornado, AR Scale, Cool Season",Fig S2c
+28,WarningPerspective_TO_SV_with_tA_AS,AF_ST_AS_C,"AR Fraction, Severe Tstorm, AR Scale, Cool Season",Fig S2d
+29,WarningPerspective_TO_SV_with_tA_AS,AF_TO_AS_W,"AR Fraction, Tornado, AR Scale, warm Season",Fig S2e
+30,WarningPerspective_TO_SV_with_tA_AS,AF_ST_AS_W,"AR Fraction, Severe Tstorm, AR Scale, Warm Season",Fig S2f
+31,ARPerspective_tA_AS_with_TO_SV,AS_AR_TO_A,Fraction of Tornado during all months w/ AR Scale AR,Fig S3a
+32,ARPerspective_tA_AS_with_TO_SV,AS_AR_SV_A,Fraction of Severe during all months w/ AR Scale AR,Fig S3b
+33,ARPerspective_tA_AS_with_TO_SV,AS_AR_TO_C,Fraction of Tornado during cool-season w/ AR Scale AR,Fig S3c
+34,ARPerspective_tA_AS_with_TO_SV,AS_AR_SV_C,Fraction of Severe during cool-season w/ AR Scale AR,Fig S3d
+35,ARPerspective_tA_AS_with_TO_SV,AS_AR_TO_W,Fraction of Tornado during warm-season w/ AR Scale AR,Fig S3e
+36,ARPerspective_tA_AS_with_TO_SV,AS_AR_SV_W,Fraction of Severe during warm-season w/ AR Scale AR,Fig S3f
